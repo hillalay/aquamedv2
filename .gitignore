@@ -1,0 +1,4 @@
+data
+.venv
+outputs
+yolov8s.pt
